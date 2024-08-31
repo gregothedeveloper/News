@@ -1,0 +1,37 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NewsApp | post detail</title>
+    <link rel="stylesheet" href="{% static "css/style.css" %}">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  </head>
+  <body>
+    <section>
+    <h1>Post Detail</h1>
+    <div class="detail">
+    <h2>
+        {{ post.title }}
+    </h2>
+    <p>
+        {{ post.content }}
+    </p>
+    <p>Author: 
+        {{ post.author }}
+    </p>
+
+    <a href="{% url "update" post.id %}">
+        Update post
+    </a>
+    <a href="{% url "delete" post.id %}">
+        Delete post
+    </a>
+    <a href="/">
+        Back to Home
+    </a>
+    </div>
+    </section>
+  </body>
+</html>
