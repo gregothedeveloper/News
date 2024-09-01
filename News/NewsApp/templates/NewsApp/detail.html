@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NewsApp | post detail</title>
+    <title>NewsApp | post Item</title>
     <link rel="stylesheet" href="{% static "css/style.css" %}">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
   </head>
@@ -22,15 +22,16 @@
         {{ post.author }}
     </p>
 
-    <a href="{% url "update" post.id %}">
-        Update post
-    </a>
-    <a href="{% url "delete" post.id %}">
-        Delete post
-    </a>
-    <a href="/">
-        Back to Home
-    </a>
+    <p>
+      <a href="{% url "update" post.id %}">Update post</a>
+    </p>
+    <p>
+      <a href="{% url "delete" post.id %}">Delete post</a>
+    </p>
+    <p>
+      <a href="{% url "list"  %}">Back to Home</a>
+    </p>
+
     </div>
     </section>
   </body>

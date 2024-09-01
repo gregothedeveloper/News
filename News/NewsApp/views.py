@@ -12,7 +12,7 @@ def post_create(request,):
             return redirect('list')
     else:
         form = CustomForm()
-        return render(request, 'NewsApp/create.html', {'form': form})
+    return render(request, 'NewsApp/create.html', {'form': form})
 def post_list(request):
     posts = models.Post.objects.all()
     return render(request, 'NewsApp/list.html', {'posts': posts})
@@ -34,5 +34,7 @@ def post_update(request, id):
     
 def post_delete(request, id):
     post = get_object_or_404(models.Post, id=id)
-    post.delete()
-    return redirect('list')
+    if request.method == 'POST':
+        post.delete()
+        return redirect('list')
+    return render(request, 'NewsApp/delete.html', {'post': post})

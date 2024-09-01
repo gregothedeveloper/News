@@ -3,13 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NewsApp | post update</title>
+    <title>NewsApp | post Delete</title>
   </head>
   <body>
-    <h1>Update post</h1>
+    <h1>Delete post</h1>
     <form method="post">
-      {% csrf_token %} {{ form.as_p }}
-      <button type="submit">Update post</button>
+      {% csrf_token %}
+      <p>Are you sure you want to delete {{ task.title }}?</p>
+      <button type="submit">Yes, Delete post</button>
     </form>
   </body>
 </html>
