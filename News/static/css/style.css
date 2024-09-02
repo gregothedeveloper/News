@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
 .gradient-custom-2 {
   /* fallback for old browsers */
   background: #7e40f6;
@@ -24,4 +30,10 @@
   border: 2px solid rgba(255, 255, 255, 0.05);
   background-clip: padding-box;
   box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+}
+
+footer {
+  background: rgb(50, 50, 49);
+  color: whitesmoke;
+  text-align: center;
 }

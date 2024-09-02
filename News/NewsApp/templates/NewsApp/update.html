@@ -1,15 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>NewsApp | post update</title>
-  </head>
-  <body>
-    <h1>Update post</h1>
-    <form method="post">
-      {% csrf_token %} {{ form.as_p }}
-      <button type="submit">Update post</button>
-    </form>
-  </body>
-</html>
+{% extends "base.html" %} {% load bootstrap5 %}
+{% block content %}
+<section class="vh-100 gradient-custom-2">
+    <div class="container py-5 h-100">
+     <div class="row d-flex justify-content-center align-items-center h-100">
+       <div class="col-md-12 col-xl-8">
+         <div class="card task-card">
+          <div class="card-body p-4 text-white">
+            <div class="text-center pt-3 pb-2">
+              <h2 class="text-center my-4">Update post</h2>
+                <div class="container">
+                <div class="card p-2">
+                   <form method="post">
+                    {% csrf_token %} 
+                    {% for field in form %}
+                    <div class="col-8">{% bootstrap_field field %}</div>
+                    {% endfor %}
+                    <button type="submit" class='btn btn-primary'>
+                      Update post
+                    </button>
+                  </form>
+            </div>
+            <a class="btn btn-success p-3 m-3 text-center" href="{% url "list"  %}">Back to task list</a>   
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+</section>
+{% endblock content %}
+
