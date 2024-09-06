@@ -16361,3 +16361,1250 @@ File E:\python\django\News\.venv\src\django-debug-toolbar\debug_toolbar\locale\s
 File E:\python\django\News\.venv\src\django-debug-toolbar\debug_toolbar\locale\sv_SE\LC_MESSAGES\django.mo first seen with mtime 1725577675.1469824
 File E:\python\django\News\.venv\src\django-debug-toolbar\debug_toolbar\locale\uk\LC_MESSAGES\django.mo first seen with mtime 1725577675.1469824
 File E:\python\django\News\.venv\src\django-debug-toolbar\debug_toolbar\locale\zh_CN\LC_MESSAGES\django.mo first seen with mtime 1725577675.1469824
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1725236909.0586765
+File C:\Python312\Lib\encodings\idna.py first seen with mtime 1717692852.0
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1725236902.1036503
+File E:\python\django\News\.venv\Lib\site-packages\django\conf\urls\__init__.py first seen with mtime 1725236900.5700426
+File E:\python\django\News\.venv\Lib\site-packages\django\db\migrations\executor.py first seen with mtime 1725236917.191958
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1725236909.5915897
+File E:\python\django\News\.venv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1725236917.3610418
+File E:\python\django\News\.venv\Lib\site-packages\django\views\defaults.py first seen with mtime 1725236918.06777
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1725236909.0742981
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1725236909.0742981
+File C:\Python312\Lib\stringprep.py first seen with mtime 1717692852.0
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1725236909.0742981
+File E:\python\django\News\.venv\src\django-debug-toolbar\debug_toolbar\middleware.py first seen with mtime 1725577675.1469824
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1725236909.0742981
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1725236909.5759652
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1725236909.0899262
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1725236915.9080875
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1725236909.0742981
+File E:\python\django\News\News\NewsApp\migrations\0001_initial.py first seen with mtime 1725063093.8703892
+File E:\python\django\News\.venv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1725236917.7546413
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1725236902.1036503
+File E:\python\django\News\News\NewsApp\migrations\0003_remove_post_updated_at_alter_post_created_at.py first seen with mtime 1725200970.317061
+File E:\python\django\News\.venv\Lib\site-packages\django\middleware\common.py first seen with mtime 1725236917.7546413
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1725236914.7942402
+File E:\python\django\News\.venv\Lib\site-packages\django\db\migrations\graph.py first seen with mtime 1725236917.2075777
+File E:\python\django\News\.venv\Lib\site-packages\django\db\migrations\loader.py first seen with mtime 1725236917.2075777
+File E:\python\django\News\.venv\Lib\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1725236916.910271
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1725236909.0742981
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1725236909.0586765
+File E:\python\django\News\News\NewsApp\migrations\__init__.py first seen with mtime 1725062684.0260353
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1725236909.0586765
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\messages\middleware.py first seen with mtime 1725236913.553375
+File E:\python\django\News\News\user_data\migrations\__init__.py first seen with mtime 1725572787.7017376
+File E:\python\django\News\News\News\wsgi.py first seen with mtime 1725062256.2442727
+File E:\python\django\News\News\NewsApp\migrations\0002_alter_post_author.py first seen with mtime 1725067541.3458793
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1725236915.9080875
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1725236909.0899262
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1725236909.0742981
+File E:\python\django\News\.venv\Lib\site-packages\django\views\csrf.py first seen with mtime 1725236918.06777
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1725236909.5915897
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1725236902.1036503
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1725236902.1036503
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1725236909.0586765
+File E:\python\django\News\.venv\Lib\site-packages\django\db\migrations\recorder.py first seen with mtime 1725236917.2232034
+(0.031) SELECT COUNT(*) AS "__count" FROM "NewsApp_post"; args=(); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:07.995012' AND "django_session"."session_key" = 'kjgzdsr91i5xgbwt4qkt062arlhu0m7t') LIMIT 21; args=('2024-09-06 09:43:07.995012', 'kjgzdsr91i5xgbwt4qkt062arlhu0m7t'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" LIMIT 7 OFFSET 10; args=(); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/?page=3'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/?page=3'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/?page=3'>
+"GET /?page=3 HTTP/1.1" 200 19786
+"GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+"GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+"GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+File E:\python\django\News\.venv\Lib\site-packages\django\conf\locale\en\formats.py first seen with mtime 1725236900.0093558
+File C:\Python312\Lib\importlib\resources\_itertools.py first seen with mtime 1717692852.0
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1725236913.573475
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1725236914.7942402
+File C:\Python312\Lib\importlib\resources\readers.py first seen with mtime 1717692852.0
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1725236913.5891247
+File E:\python\django\News\.venv\Lib\site-packages\tzdata\__init__.py first seen with mtime 1725061959.9408746
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1725236913.553375
+File E:\python\django\News\.venv\Lib\site-packages\tzdata\zoneinfo\__init__.py first seen with mtime 1725061960.0346234
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1725236907.9464543
+File E:\python\django\News\.venv\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1725236913.573475
+File E:\python\django\News\.venv\Lib\site-packages\django\template\context_processors.py first seen with mtime 1725236917.7546413
+File C:\Python312\Lib\importlib\readers.py first seen with mtime 1717692852.0
+File E:\python\django\News\.venv\Lib\site-packages\django\conf\locale\en\__init__.py first seen with mtime 1725236900.0093558
+"GET /static/debug_toolbar/js/utils.js HTTP/1.1" 304 0
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:11.516380' AND "django_session"."session_key" = 'kjgzdsr91i5xgbwt4qkt062arlhu0m7t') LIMIT 21; args=('2024-09-06 09:43:11.516380', 'kjgzdsr91i5xgbwt4qkt062arlhu0m7t'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE "django_session"."session_key" = 'kjgzdsr91i5xgbwt4qkt062arlhu0m7t' LIMIT 21; args=('kjgzdsr91i5xgbwt4qkt062arlhu0m7t',); alias=default
+(0.344) DELETE FROM "django_session" WHERE "django_session"."session_key" IN ('kjgzdsr91i5xgbwt4qkt062arlhu0m7t'); args=('kjgzdsr91i5xgbwt4qkt062arlhu0m7t',); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/auth/logout/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/auth/logout/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/auth/logout/'>
+"GET /auth/logout/ HTTP/1.1" 302 0
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/auth/login/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/auth/login/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/auth/login/'>
+"GET /auth/login/ HTTP/1.1" 200 14012
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."username" = 'kim3' LIMIT 21; args=('kim3',); alias=default
+(0.000) SELECT 1 AS "a" FROM "django_session" WHERE "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu' LIMIT 1; args=(1, 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.015) BEGIN; args=None; alias=default
+(0.000) INSERT INTO "django_session" ("session_key", "session_data", "expire_date") VALUES ('l8cvveovwrctaxow9ua8t1ep7v79olfu', 'e30:1smVUu:ebHGZhqsXNWRS8AzPo3BAIw6UYoH2IYbHTWPOmY-ak0', '2024-09-20 09:43:20.377915'); args=('l8cvveovwrctaxow9ua8t1ep7v79olfu', 'e30:1smVUu:ebHGZhqsXNWRS8AzPo3BAIw6UYoH2IYbHTWPOmY-ak0', '2024-09-20 09:43:20.377915'); alias=default
+(0.125) COMMIT; args=None; alias=default
+(0.156) UPDATE "auth_user" SET "last_login" = '2024-09-06 09:43:20.506436' WHERE "auth_user"."id" = 4; args=('2024-09-06 09:43:20.506436', 4); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: POST '/auth/login/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: POST '/auth/login/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: POST '/auth/login/'>
+(0.000) BEGIN; args=None; alias=default
+(0.000) UPDATE "django_session" SET "session_data" = '.eJxVjE0OwiAYBe_C2hBaQMCl-56BfD8gVQNJaVfGu2uTLnT7Zua9RIRtLXHraYkzi4sw4vS7IdAj1R3wHeqtSWp1XWaUuyIP2uXUOD2vh_t3UKCXb00ZiDMZi35QPKJ3Z0sI2qMKLkEixsF6D4GdVia7gJphtFonyB7YiPcHHDc5Iw:1smVUu:69Zy1LHBxH-SCZZaTnY1diryf_70qTww3L2lO6xowCo', "expire_date" = '2024-09-20 09:43:20.764056' WHERE "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu'; args=('.eJxVjE0OwiAYBe_C2hBaQMCl-56BfD8gVQNJaVfGu2uTLnT7Zua9RIRtLXHraYkzi4sw4vS7IdAj1R3wHeqtSWp1XWaUuyIP2uXUOD2vh_t3UKCXb00ZiDMZi35QPKJ3Z0sI2qMKLkEixsF6D4GdVia7gJphtFonyB7YiPcHHDc5Iw:1smVUu:69Zy1LHBxH-SCZZaTnY1diryf_70qTww3L2lO6xowCo', '2024-09-20 09:43:20.764056', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.063) COMMIT; args=None; alias=default
+"POST /auth/login/ HTTP/1.1" 302 0
+(0.000) SELECT COUNT(*) AS "__count" FROM "NewsApp_post"; args=(); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:20.852786' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:43:20.852786', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" LIMIT 5; args=(); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/'>
+"GET / HTTP/1.1" 200 18850
+(0.015) SELECT COUNT(*) AS "__count" FROM "NewsApp_post"; args=(); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:23.663658' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:43:23.663658', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" LIMIT 7 OFFSET 10; args=(); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/?page=3'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/?page=3'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/?page=3'>
+"GET /?page=3 HTTP/1.1" 200 19781
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" WHERE "NewsApp_post"."id" = 11 LIMIT 21; args=(11,); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:26.762792' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:43:26.762792', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/detail/11/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/detail/11/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/detail/11/'>
+"GET /detail/11/ HTTP/1.1" 200 17326
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:31.411503' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:43:31.411503', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" WHERE "NewsApp_post"."id" = 11 LIMIT 21; args=(11,); alias=default
+Exception while resolving variable 'task' in template 'NewsApp/delete.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'task'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'task'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'task'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [task] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: 'IqT1BHp046eqDfURX5Z5m8EtjjlhwuON36eIOLyUKjq6x2VAEo3iYqxQKuIjgdW4'>, 'debug': True, 'sql_queries': <function debug.<locals>.<lambda> at 0x000001B7E90D19E0>, 'request': <WSGIRequest: GET '/delete/11/'>, 'user': <SimpleLazyObject: <User: kim3>>, 'perms': PermWrapper(<SimpleLazyObject: <User: kim3>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/delete/11/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'post': <Post: bryo Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, voluptatem veritatis. Unde ad quod eligendi impedit iure quia architecto inventore assumenda vitae? Quis officia rerum officiis similique minima atque voluptates accusantium cupiditate id dolorem praesentium assumenda a aperiam provident commodi sapiente facilis cum dicta debitis totam beatae, fuga illo, enim vitae! Sapiente excepturi sit consectetur sed, asperiores, architecto quo voluptates ipsa dolorum laudantium recusandae, hic commodi possimus quos temporibus? Minus reiciendis repudiandae nam impedit suscipit qui corporis ad commodi, enim, facere incidunt quam esse aut consequatur libero! Aliquid inventore beatae, pariatur eligendi vitae corporis suscipit. Officiis autem ad rerum vitae. True kkaguta,2024-09-01 03:54:21+00:00>, 'title': 'delete'}, {'block': <Block Node: content. Contents: [<TextNode: '\n<section class="vh-100 g'>, <django.template.defaulttags.CsrfTokenNode object at 0x000001B7E9037E00>, <TextNode: '\n                <p>Are y'>, <Variable Node: task.title>, <TextNode: '?</p>\n                <bu'>, <URLNode view_name='"delete"' args=[<FilterExpression 'post.id'>] kwargs={} as=None>, <TextNode: '">delete New Post</a> \n  '>, <URLNode view_name='"list"' args=[] kwargs={} as=None>, <TextNode: '">Back to post list</a> \n'>]>}]
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/delete/11/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/delete/11/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/delete/11/'>
+"GET /delete/11/ HTTP/1.1" 200 15219
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:41.569358' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:43:41.569358', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" WHERE "NewsApp_post"."id" = 11 LIMIT 21; args=(11,); alias=default
+(0.078) DELETE FROM "NewsApp_post" WHERE "NewsApp_post"."id" IN (11); args=(11,); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: POST '/delete/11/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: POST '/delete/11/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: POST '/delete/11/'>
+"POST /delete/11/ HTTP/1.1" 302 0
+(0.000) SELECT COUNT(*) AS "__count" FROM "NewsApp_post"; args=(); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:43:41.715851' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:43:41.715851', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" LIMIT 5; args=(); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/'>
+"GET / HTTP/1.1" 200 18850
+File E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html previous mtime: 1725238388.9225023, current mtime: 1725615842.7354622
+E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html notified as changed. Signal results: [(<function template_changed at 0x000001B7E77B99E0>, True), (<function translation_file_changed at 0x000001B7E8AC1940>, None)].
+File E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html previous mtime: 1725615842.7354622, current mtime: 1725615843.187232
+E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html notified as changed. Signal results: [(<function template_changed at 0x000001B7E77B99E0>, True), (<function translation_file_changed at 0x000001B7E8AC1940>, None)].
+File E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html previous mtime: 1725615843.187232, current mtime: 1725615844.1010737
+E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html notified as changed. Signal results: [(<function template_changed at 0x000001B7E77B99E0>, True), (<function translation_file_changed at 0x000001B7E8AC1940>, None)].
+File E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html previous mtime: 1725615844.1010737, current mtime: 1725615845.299987
+E:\python\django\News\News\NewsApp\templates\NewsApp\delete.html notified as changed. Signal results: [(<function template_changed at 0x000001B7E77B99E0>, True), (<function translation_file_changed at 0x000001B7E8AC1940>, None)].
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" WHERE "NewsApp_post"."id" = 1 LIMIT 21; args=(1,); alias=default
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:44:11.825648' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:44:11.825648', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/detail/1/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/detail/1/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/detail/1/'>
+"GET /detail/1/ HTTP/1.1" 200 18001
+(0.000) SELECT "django_session"."session_key", "django_session"."session_data", "django_session"."expire_date" FROM "django_session" WHERE ("django_session"."expire_date" > '2024-09-06 09:44:17.850569' AND "django_session"."session_key" = 'l8cvveovwrctaxow9ua8t1ep7v79olfu') LIMIT 21; args=('2024-09-06 09:44:17.850569', 'l8cvveovwrctaxow9ua8t1ep7v79olfu'); alias=default
+(0.000) SELECT "auth_user"."id", "auth_user"."password", "auth_user"."last_login", "auth_user"."is_superuser", "auth_user"."username", "auth_user"."first_name", "auth_user"."last_name", "auth_user"."email", "auth_user"."is_staff", "auth_user"."is_active", "auth_user"."date_joined" FROM "auth_user" WHERE "auth_user"."id" = 4 LIMIT 21; args=(4,); alias=default
+(0.000) SELECT "NewsApp_post"."id", "NewsApp_post"."title", "NewsApp_post"."content", "NewsApp_post"."status", "NewsApp_post"."created_at", "NewsApp_post"."author" FROM "NewsApp_post" WHERE "NewsApp_post"."id" = 1 LIMIT 21; args=(1,); alias=default
+Exception while resolving variable 'task' in template 'NewsApp/delete.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'task'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 886, in _resolve_lookup
+    if isinstance(current, BaseContext) and getattr(
+                                            ^^^^^^^^
+AttributeError: type object 'RequestContext' has no attribute 'task'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'task'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [task] in [{'True': True, 'False': False, 'None': None}, {'csrf_token': <SimpleLazyObject: 'EtkFoWcCJfzKSRX8sq1qHnvK0BJLqqRxZ9FmB0lwpsLqMEYR9J5DjFo7rM6Na9ZO'>, 'debug': True, 'sql_queries': <function debug.<locals>.<lambda> at 0x000001B7E913E660>, 'request': <WSGIRequest: GET '/delete/1/'>, 'user': <SimpleLazyObject: <User: kim3>>, 'perms': PermWrapper(<SimpleLazyObject: <User: kim3>>), 'messages': <FallbackStorage: request=<WSGIRequest: GET '/delete/1/'>>, 'DEFAULT_MESSAGE_LEVELS': {'DEBUG': 10, 'INFO': 20, 'SUCCESS': 25, 'WARNING': 30, 'ERROR': 40}}, {}, {'post': <Post: Price controls would make MPs unpopular The Price Control (Essential Goods) Amendment Bill 2024 proposes to introduce price controls for maize, wheat, rice, sugar, cooking oil and other items.
+
+It is a private members Bill introduced by Senator Tabitha Mutinda but nevertheless it is a serious threat to the Kenyan economy.
+
+Price controls are tempting, the world would indeed be a better place if all essential  items were easily affordable. But unfortunately price controls don't work like that, they will only result in goods becoming unavailable unless the consumer pays extra.
+
+The law of supply and demand is a fundamental of economics. If there is over-supply, prices go down and if there is under-supply, prices go up. If prices are too high, demand decreases and if they are too low, demand increases.
+
+Price controls will lower prices so demand will increase, resulting in shortages.  
+
+Simultaneously, manufacturers will have lower profit margins, or will even make losses, so they will pull out of production, further increasing shortages and pushing up prices on the informal market.
+
+Introducing price controls on essential commodities like maize meal would be a disaster. All it would achieve would be to reduce supply. The politicians behind this legislation would become less popular, not more popular.
+
+Quote of the day: "Superhuman effort isn't worth a damn unless it achieves results." True yoweri museveni,2024-08-24 23:31:21+00:00>, 'title': 'delete'}, {'block': <Block Node: content. Contents: [<TextNode: '\n<section class="vh-100 g'>, <django.template.defaulttags.CsrfTokenNode object at 0x000001B7E91644D0>, <TextNode: '\n                <p>Are y'>, <Variable Node: task.title>, <TextNode: '?</p>\n                <bu'>, <URLNode view_name='"delete"' args=[<FilterExpression 'post.id'>] kwargs={} as=None>, <TextNode: '">delete Post</a> \n      '>, <URLNode view_name='"list"' args=[] kwargs={} as=None>, <TextNode: '">Back to post list</a> \n'>]>}]
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/delete/1/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/delete/1/'>
+Exception while resolving variable 'csp_nonce' in template 'debug_toolbar/base.html'.
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 880, in _resolve_lookup
+    current = current[bit]
+              ~~~~~~~^^^^^
+TypeError: 'WSGIRequest' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 890, in _resolve_lookup
+    current = getattr(current, bit)
+              ^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WSGIRequest' object has no attribute 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 896, in _resolve_lookup
+    current = current[int(bit)]
+                      ^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'csp_nonce'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\python\django\News\.venv\Lib\site-packages\django\template\base.py", line 903, in _resolve_lookup
+    raise VariableDoesNotExist(
+django.template.base.VariableDoesNotExist: Failed lookup for key [csp_nonce] in <WSGIRequest: GET '/delete/1/'>
+"GET /delete/1/ HTTP/1.1" 200 15212
