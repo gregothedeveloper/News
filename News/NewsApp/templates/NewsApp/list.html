@@ -19,19 +19,23 @@
                   <th scope="col">S. Number</th>
                   <th scope="col">Title</th>
                   <th scope="col">Created at</th>
+                  <th scope="col">Created by</th>
+                  
                   <th scope="col">Status</th>
                 </tr>
               </thead>
               <tbody>
                 {% for post in posts %}
                 <tr class="fw-normal">
-                  <th class='col-2'>
+                  <th class='col-1'>
                     <span class="ms-2">{{forloop.counter}}</span>
                   </th>
                   <td>
                     <a href="{% url "detail" post.id %}" class='border-0 align-middle text-decoration-none col-5'>{{ post.title }}</a>
                   </td>
                   <td class="align-middle col-3">{{ post.created_at}}
+                  </td>
+                  <td class="align-middle col-3">{{ post.author.name}}
                   </td>
                   <td class="align-middlecol-2">
                     <span class="badge bg-success fs-6">{{ post.status|task_status }}</span>
