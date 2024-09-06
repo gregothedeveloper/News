@@ -17,9 +17,21 @@
     />
     <link rel="stylesheet" href="{% static "css/style.css" %}">
 
-    <title> NewsApp | {{title}}</title>
+    <title>NewsApp | {{title}}</title>
   </head>
   <body>
+    <header>
+      <h1>{{user.username}} is authenticated</h1>
+      <nav> 
+        <ul>
+          {%if user.is_authenticated %}
+          <li><a href="{% url "auth:logout" %}"class='p-2 my-3 btn btn-danger'>Logout</a></li>
+          {% else %}
+          <li><a href="{% url "auth:login" %}"class='p-2 my-3 btn btn-primary'>Login</a></li>
+          {% endif %}
+        </ul>
+      </nav>
+    </header>
     {% block content %} {% endblock content %}
 
     <footer>Copyright | Bretech Solutions</footer>

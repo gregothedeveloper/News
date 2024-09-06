@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NewsApp | user registration</title>
+  </head>
+  <body>
+    <h2>User Registration</h2>
+    <form method="post">
+      {% csrf_token %} {{form.as_p }}
+      <button type="submit">Sign up here</button>
+    </form>
+  </body>
+</html>

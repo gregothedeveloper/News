@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'NewsApp',
     'bootstrap5',
+    'user_data',
 ]
 
 MIDDLEWARE = [
@@ -131,3 +132,34 @@ MEDIA_ROOT = BASE_DIR /'media'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+#Authentication
+
+LOGIN_REDIRECT_URL = '/login'
+LOGIN_URL = '/'
+LOGOUT_REDIRECT_URL = '/auth/login/'
+
+
+if DEBUG :
+    INTERNAL_IPS = ['127.0.0.1']
+    MIDDLEWARE += ['debug_toolbar.middleware.DebugToolbarMiddleware']
+    INSTALLED_APPS += ['debug_toolbar']
+
+LOGGING = {
+'version': 1,
+'disable_existing_loggers': False,
+'handlers': {
+'file': {
+'level': 'DEBUG',
+'class': 'logging.FileHandler',
+'filename': 'logs/debug.log',
+},
+},
+'loggers': {
+'django': {
+'handlers': ['file'],
+'level': 'DEBUG',
+'propagate': True,
+},
+},
+}
